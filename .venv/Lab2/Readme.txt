@@ -1,0 +1,1 @@
+Autor projektu: Kacper Sochacki, Bartosz Mormul
