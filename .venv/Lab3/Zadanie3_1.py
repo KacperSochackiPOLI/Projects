@@ -1,0 +1,10 @@
+a = 5
+b=3
+pole = a * b
+print("Pole = ", pole)
+suma = a + b
+roznica = a - b
+iloraz = a * b
+print("Suma = ", suma)
+print("Roznica = ", roznica)
+print("Iloraz = ", iloraz)
